@@ -65,4 +65,4 @@ df.count()
 # COMMAND ----------
 
 # MAGIC %md
-# MAGIC why is this so difficult 
+# MAGIC I'm trying this 
