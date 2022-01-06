@@ -66,3 +66,16 @@ df.count()
 
 # MAGIC %md
 # MAGIC creating a feature branch and deleting it
+
+# COMMAND ----------
+
+# MAGIC %md
+# MAGIC I'm testing it on how it would be to pull changes to production
+
+# COMMAND ----------
+
+df.display()
+
+# COMMAND ----------
+
+
