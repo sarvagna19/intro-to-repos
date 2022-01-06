@@ -64,3 +64,5 @@ df.count()
 
 # COMMAND ----------
 
+# MAGIC %md
+# MAGIC creating a feature branch and deleting it
